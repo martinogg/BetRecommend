@@ -146,8 +146,7 @@
 			children = (
 				EEEBC88E22B7D7BF00EA8402 /* ViewController.swift */,
 			);
-			name = View;
-			path = "New Group";
+			path = View;
 			sourceTree = "<group>";
 		};
 		EEEBC89022B7D91300EA8402 /* Model */ = {
@@ -157,8 +156,7 @@
 				EEEBC89522B7D94100EA8402 /* Entry.swift */,
 				EEEBC89422B7D94000EA8402 /* EntryArray.swift */,
 			);
-			name = Model;
-			path = "New Group";
+			path = Model;
 			sourceTree = "<group>";
 		};
 		EEEBC89122B7D92700EA8402 /* Data */ = {
@@ -166,8 +164,7 @@
 			children = (
 				EEEBC89922B7D94A00EA8402 /* FakeData.swift */,
 			);
-			name = Data;
-			path = "New Group1";
+			path = Data;
 			sourceTree = "<group>";
 		};
 		EEEBC89222B7D93000EA8402 /* BRLib */ = {
@@ -175,8 +172,7 @@
 			children = (
 				EEEBC89B22B7D95400EA8402 /* BRLib.swift */,
 			);
-			name = BRLib;
-			path = "New Group2";
+			path = BRLib;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
